@@ -16,23 +16,22 @@ B.S., Business Administration | Montclair State University (_May 2016_)
 
 # Projects
 1. Inventory Management Tracker
-A data-driven solution to track inventory levels and manage stock across locations.
+- A data-driven solution to track inventory levels and manage stock across locations.
+-   Tools: Excel, Tableau
+-     Outcomes: Reduced stock discrepancies by 30% and streamlined restocking processes.
 
-Tools: Excel, Tableau
-Outcomes: Reduced stock discrepancies by 30% and streamlined restocking processes.
 2. Sell Sheets
-A collection of sell sheets created using customer insights and metrics. Each sheet was tailored to specific audiences, enhancing brand messaging and driving partner engagement.
+- A collection of sell sheets created using customer insights and metrics. Each sheet was tailored to specific audiences, enhancing brand messaging and driving partner engagement.
+-   Tools Used: Adobe Creative Cloud, Tableau
+-     Impact: Contributed to $3 million in partnerships through targeted visual and content strategies.
 
-Tools Used: Adobe Creative Cloud, Tableau
-Impact: Contributed to $3 million in partnerships through targeted visual and content strategies.
 3. SQL & Python Passion Project
-A hands-on project focused on mastering SQL and Python by analyzing datasets, generating insights, and visualizing findings.
+- A hands-on project focused on mastering SQL and Python by analyzing datasets, generating insights, and visualizing findings.
+-   Skills Practiced: Joins, aggregations, data cleaning, visualization.
+-     Repository Link: [Link to SQL & Python Project Folder]
 
-Skills Practiced: Joins, aggregations, data cleaning, visualization.
-Repository Link: [Link to SQL & Python Project Folder]
-4. HTML, CSS, and JavaScript
-A small web development project to build foundational HTML, CSS, and JavaScript skills.
-
-Project Overview: Developed a responsive webpage with interactive elements.
+4. . HTML, CSS, and JavaScript
+- A small web development project to build foundational HTML, CSS, and JavaScript skills.
+-   Project Overview: Developed a responsive webpage with interactive elements.
 
 
