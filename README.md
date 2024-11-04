@@ -3,7 +3,7 @@
 #### Technical Skills:  Tableau, SQL, Python, Nielsen, Salesforce, Asana, Jira, Monday.com, Coupa, Adobe Creative Cloud, Figma, Canva, WordPress, M.S. Office Suite, G-Suite, Slack, Airtable
 
 ## Work Experience
-**Adminsitrative Consultant @ Blackstone (_Feb 2024 - Present_)**
+**Administrative Consultant @ Blackstone (_Feb 2024 - Present_)**
 - Project Management and Process Optimization: Utilized Jira and OneNote to effectively manage meetings and billing for projects valued at over $300 billion, optimizing document processes which resulted in a 40% increase in team efficiency.
 - Financial Reporting and Budget Management: Streamlined financial reporting by submitting 15 backlogged T&E Concur reports and resolving $90,000 in payment errors within 4 weeks
 - Client Engagement and Relationship Management: Coordinated client-facing activities, including dinners, meetings, and events, serving as a liaison between clients and professionals to ensure smooth communication and successful execution of engagements
