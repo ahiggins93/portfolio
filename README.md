@@ -14,11 +14,25 @@
 ## Education	        		
 B.S., Business Administration | Montclair State University (_May 2016_)
 
- # Projects
-- Inventory Management Tracker
-- Sell Sheets
-  These are the sell sheets that I have created while using metrics and customer insights to execute the sell sheet 
-- SQL & Python 
-  SQL and Python Passion Project 
-- HTML, CSS, and Javascript
+# Projects
+1. Inventory Management Tracker
+A data-driven solution to track inventory levels and manage stock across locations.
+
+Tools: Excel, Tableau
+Outcomes: Reduced stock discrepancies by 30% and streamlined restocking processes.
+2. Sell Sheets
+A collection of sell sheets created using customer insights and metrics. Each sheet was tailored to specific audiences, enhancing brand messaging and driving partner engagement.
+
+Tools Used: Adobe Creative Cloud, Tableau
+Impact: Contributed to $3 million in partnerships through targeted visual and content strategies.
+3. SQL & Python Passion Project
+A hands-on project focused on mastering SQL and Python by analyzing datasets, generating insights, and visualizing findings.
+
+Skills Practiced: Joins, aggregations, data cleaning, visualization.
+Repository Link: [Link to SQL & Python Project Folder]
+4. HTML, CSS, and JavaScript
+A small web development project to build foundational HTML, CSS, and JavaScript skills.
+
+Project Overview: Developed a responsive webpage with interactive elements.
+
 
