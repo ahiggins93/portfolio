@@ -14,7 +14,7 @@
 ## Education	        		
 B.S., Business Administration | Montclair State University (_May 2016_)
 
- ## Projects
+ # Projects
 - Inventory Management Tracker
 - Sell Sheets
   These are the sell sheets that I have created while using metrics and customer insights to execute the sell sheet 
