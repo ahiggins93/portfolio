@@ -9,8 +9,10 @@ Administrative Consultant @ Blackstone
 - big impact project 2!
 
 - ### Projects
-- Inventory Managment Tracker
-- Sell Sheets
-- SQL
-- Python
-- HTML/CSS
+Inventory Managment Tracker
+- 
+Sell Sheets
+SQL
+Python
+HTML/CSS
+- 
