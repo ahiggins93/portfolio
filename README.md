@@ -15,9 +15,10 @@
 B.S., Business Administration | Montclair State University (_May 2016_)
 
  ## Projects
-- Inventory Managment Tracker
+- Inventory Management Tracker
 - Sell Sheets
-- SQL
-- Python
-- HTML/CSS
+  These are the sell sheets that I have created while using metrics and customer insights to execute the sell sheet 
+- SQL & Python 
+  SQL and Python Passion Project 
+- HTML, CSS, and Javascript
 
